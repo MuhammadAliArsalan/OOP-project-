@@ -1,0 +1,11 @@
+2		Paracetamol		4		282		12-12-24
+3		naproxen		6		236		12-9-24
+4		Glipizide		7		343		12-4-24
+5		Metformin		8		480		12-9-24
+6		Ibuprofen		12		111		12-9-24
+7		Amoxicillin		14		115		12-3-25
+8		Cephalexin		16		327		12-9-24
+9		Cetirizine		13		90		12-3-25
+10		Metformin		20		351		12-9-24
+11		Loratadine		21		115		12-3-25
+

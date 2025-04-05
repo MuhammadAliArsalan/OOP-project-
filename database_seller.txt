@@ -1,0 +1,5 @@
+   1   sajid   21   M      orangi
+   2   faiz   19   M      korangi
+   4   ali   22   M      gulshan
+   5   vaiz   18   M      nipa
+6   samiullah   18   m   johar
