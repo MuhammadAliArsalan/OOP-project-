@@ -83,6 +83,8 @@ public:
             }
             else
             {
+
+                
                 // if manufacaturer code not equal to give code then add data store in txt through data object
                 data << "   " << manufacturer_code << "   " << manufacturer_name << "   " << manufacturer_age << "   " << manufacturer_gender << "   "
                      << "   " << manufacturer_phone << "\n";
